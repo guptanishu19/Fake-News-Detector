@@ -7,4 +7,6 @@ THE DATASET: The first column identifies the news, the second and third are the 
 
 Accuracy: 94.69%
 
+Confusion Matrix: 746 true positives, 754 true negatives, 41 false positives, and 43 false negatives.
+
 Libraries Used: numpy, pandas, sklearn
